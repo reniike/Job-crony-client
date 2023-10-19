@@ -5,7 +5,8 @@ import * as Yup from "yup";
 const SignUp = () => {
   return (
     <div>
-        SignUp</div>
+        SignUp
+    </div>
  
   )
 }
